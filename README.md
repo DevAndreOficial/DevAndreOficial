@@ -12,8 +12,7 @@
 - JavaScript  
 - React.js  
 - Tailwind CSS  
-- PHP  
-- Node.js  
+- PHP
 
 ---
 
