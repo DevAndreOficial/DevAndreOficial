@@ -10,9 +10,11 @@
 - HTML  
 - CSS  
 - JavaScript  
-- React.js  
-- Tailwind CSS  
+- Tailwind CSS
+- Bootstrap
 - PHP
+- Laravel
+- SQL
 
 ---
 
@@ -27,10 +29,11 @@
 
 ## 📂 Projetos  
 
-🔹 [Meu Portfólio](#)  
-🔹 [Meu Website](#)  
-🔹 [Jogo do Número Secreto](#)  
-🔹 [Jogo do Amigo Secreto](#)  
+🔹 [Meu Portfólio](https://devandreoficial.github.io/meu-portifolio/)  
+🔹 [Ecommerce | RedStore - Website](https://ecommerce-website-red-store.vercel.app/)  
+🔹 [Website - Ainda em Processo](https://devandreoficial.github.io/website-responsivo/)  
+🔹 [Jogo do Número Secreto](https://devandreoficial.github.io/jogo-do-numero-secreto/)  
+🔹 [Jogo do Amigo Secreto](https://devandreoficial.github.io/jogo-do-amigo-secreto/)  
 
 ---
 
